@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Chattanooga Golf Sim Co. crest">
+  <path d="M32 2 58 10v22c0 15-11 25-26 30C17 57 6 47 6 32V10L32 2z" fill="#1E6B3C" stroke="#C9A227" stroke-width="2.5"/>
+  <path d="M32 7 53 13.6V32c0 12.4-8.9 20.8-21 25.3C19.9 52.8 11 44.4 11 32V13.6L32 7z" fill="none" stroke="#C9A227" stroke-width="1" opacity=".55"/>
+  <line x1="27" y1="14" x2="27" y2="46" stroke="#F7F3E8" stroke-width="2.4" stroke-linecap="round"/>
+  <path d="M27 14l17 5.2L27 24.4z" fill="#C9A227"/>
+  <ellipse cx="32" cy="47" rx="12" ry="2.6" fill="#0E3A20"/>
+  <circle cx="38" cy="42.5" r="5" fill="#F7F3E8"/>
+  <circle cx="36.4" cy="41" r=".7" fill="#16324F" opacity=".35"/>
+  <circle cx="39.6" cy="41.4" r=".7" fill="#16324F" opacity=".35"/>
+  <circle cx="37.8" cy="44" r=".7" fill="#16324F" opacity=".35"/>
+</svg>
